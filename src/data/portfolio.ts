@@ -7,21 +7,21 @@
 export type Palette = { from: string; via: string; to: string; accent: string };
 
 export const profile = {
-  fullName: 'Dasari Venkata Ratna Sri Sushmita',
-  displayName: 'Sushmita Dasari',
-  firstName: 'SUSHMITA',
+  fullName: 'Raj Satish Deore',
+  displayName: 'RAJ DEORE',
+  firstName: 'RAJ',
   seriesTag: 'THE SERIES',
   /** Fictional studio card shown at the very start of the opening sequence. */
-  originalLabel: 'A DASARI ORIGINAL',
-  role: 'Full-Stack Developer',
-  tagline: ['Full-Stack Developer', 'AI / ML', 'Java'],
+  originalLabel: 'A DEORE ORIGINAL',
+  role: 'Industry 4.0 / Smart Manufacturing roles',
+  tagline: ['Precision Engineering from Polymer to Fabric.', 'MMTT', 'Textile'],
   intro:
-    'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
-  location: 'Surampalem, Andhra Pradesh',
-  email: 'sushmitadasari17@gmail.com',
+    'A focused Man-Made Textile Technology professional with a strong academic foundation, backed by an 8.33 CGPA. Specialized in the science, processing, and engineering of advanced synthetic fibers and technical materials, with a drive to advance modern manufacturing.',
+  location: 'Ichalkaranji, Maharastra',
+  email: 'rajdeore145@gmail.com',
   links: {
-    linkedin: 'https://www.linkedin.com/in/sushmita-dasari-227a40284/',
-    github: 'https://github.com/Sushmitadasari',
+    linkedin: 'https://www.linkedin.com/in/rajdeore',
+    github: 'https://github.com/rajdeore0605-spec',
   },
   resumePdf: '/assets/Sushmita_Dasari_Resume.pdf',
   portrait: {
